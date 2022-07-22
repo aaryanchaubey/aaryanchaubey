@@ -1,5 +1,5 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?aaryanchaubey=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aaryanchaubey)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m @aaryanchaubey
 - 👀 I’m interested in .Programming, WebDev
